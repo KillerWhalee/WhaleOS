@@ -1,2 +1,3 @@
-# Secretary-Whale
-Work helper in notion using API
+# WhaleOS
+
+The ultimate oparating system for human using Notion and Kakao
